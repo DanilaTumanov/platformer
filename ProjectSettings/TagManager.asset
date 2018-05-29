@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Enemy
+  - Trap
+  - Weapon
+  - TrapSpikes
+  - Door
+  - GameUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Hero
+  - Enemies
+  - Ground
+  - Projectiles
+  - ProjectileLimiters
+  - Limiters
+  - Traps
+  - CharsCollisionIgnore
+  - EnemyLimiters
+  - EnemyProjectiles
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1989189483
+    locked: 0
+  - name: Characters
+    uniqueID: 3088509559
+    locked: 0
+  - name: Foreground
+    uniqueID: 973074085
+    locked: 0
+  - name: Camera
+    uniqueID: 1804658463
+    locked: 0
